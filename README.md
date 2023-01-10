@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tulLazy 
-- 👀 I’m interested in ... Python web3.py, solidity, brownie
+- 👀 I’m interested in ... Python web3.py, solidity, brownie, Kotlin and Swift
 - 🌱 I’m currently learning ... web3.py, solidity, brownie
-- 💞️ I’m looking to collaborate on ... Solidity contracts, and also looking for an internship job as a smart contract/blockchain developer :) 
+- 💞️ I’m looking to collaborate on ... Solidity contracts, and also looking for an internship job as a smart contract/blockchain developer or a Kotlin and Swift developer :) 
 - 📫 How to reach me ... aiatullahkazi1704@gmail.com
 
 <!---
